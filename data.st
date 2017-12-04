@@ -1,0 +1,17 @@
+Minimum: 62
+Average: 81.25
+Maximum: 93
+Population Standard Deviation: 12.8914
+Sample Standard Deviation: 14.8857
+Modes: 93
+Histogram:
+[0-9]: 0
+[10-19]: 0
+[20-29]: 0
+[30-39]: 0
+[40-49]: 0
+[50-59]: 0
+[60-69]: 1
+[70-79]: 1
+[80-89]: 0
+[90-100]: 2
